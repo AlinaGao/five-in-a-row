@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	/*background-color: #999;*/
+}
+
+h2{
+	text-align: center;
+	color: #555;
+	margin-top: 30px;
+}
+
+canvas{
+	display: block;
+	margin: 50px auto;
+	box-shadow: -2px -2px 2px #efefef, 5px 5px 5px #9f9f9f;
+}
